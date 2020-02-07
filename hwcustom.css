@@ -5,3 +5,6 @@
 .SCARLET {
   background: #af1e2d;
 }
+.active  {
+  background: bg-danger
+}
