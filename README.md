@@ -13,7 +13,7 @@ Overall comments on grading questions:
 
 2) Are the pages reasonably structured with HTML?
     - For the most part, yes.
-    - Election dates & deadlines would be nice to present in a table.
+    - Election dates & deadlines seem well suited to table formats.
 
 3) Are the pages tolerably styled with Bootstrap?
     - For the most part, yes.
